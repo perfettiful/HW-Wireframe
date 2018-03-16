@@ -1,0 +1,59 @@
+/* HW-Wireframe HW #1 style.css*/
+body {
+    background-color:#777;
+    text-align: center;
+    height: 20px;
+    width:960px;
+    font-size:18px;
+
+}
+header{
+    background-color:#ebebeb;
+    text-align: center;
+    font-size:18px;
+
+
+}
+nav{
+    background-color:#ebebeb;
+    text-align: center;
+    height: 20px;
+    font-size:18px;
+}
+footer{
+    background-color:#ebebeb;
+    text-align: center;
+    font-size:18px;
+    
+}
+section{
+    background-color:#ebebeb;
+    text-align: center;
+    font-size:18px;
+    
+}
+article{
+    background-color:#ebebeb;
+    text-align: center;
+    font-size:18px;
+
+}
+.clear{
+
+}
+h1{
+    font-size:18px;
+
+}
+h2{
+    font-size:18px;
+    
+}
+h3{
+    font-size:18px;
+    
+}
+p{
+    font-size:18px;
+
+}
